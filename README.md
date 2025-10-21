@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fuad Anu  
 
-🎓 Software Engineering Student   
+🎓 Software Engineering   
 💻 Front-End Developer | Android Developer (Java)  
 🌍 Passionate about building modern, responsive web and mobile applications  
 
